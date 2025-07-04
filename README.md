@@ -7,7 +7,7 @@ An app for automatic extraction of links from Gmail emails.
 - ✅ Simple and easy to use.
 
 ## 🔧 Support
-If you need help, go here: [Support](https://github.com/M4e5tRO/gmail-api.github.io/support)
+If you need help, go here: [Support](https://github.com/M4e5tRO/gmail-api.github.io/support.md)
 
 ## 🔒 Privacy Policy
-Read our privacy rules here: [Privacy Policy](https://github.com/M4e5tRO/gmail-api.github.io/privacy-policy)
+Read our privacy rules here: [Privacy Policy](https://github.com/M4e5tRO/gmail-api.github.io/privacy-policy.md)
