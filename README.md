@@ -1,4 +1,4 @@
-Gmail Link Extractor
+AuthCode Fetcher
 
 An app for automatic extraction of links from Gmail emails.
 
